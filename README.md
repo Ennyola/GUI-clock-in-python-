@@ -1,2 +1,2 @@
-# GUI-clock-in-python-
-A clock that Displays all the time in the world in respect to each particular timezone
+# Currency-Converter
+it converts all currencies in the world from to any currency of your choice
