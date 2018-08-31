@@ -1,2 +1,1 @@
-# Currency-Converter
-it converts all currencies in the world from to any currency of your choice
+# A clock that displays all the time in the world with respect to each timezone
